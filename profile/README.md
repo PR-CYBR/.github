@@ -35,3 +35,5 @@ Here are the current statuses of our main branch workflows (updated daily via Gi
 
 ## 📬 Contact 📬
 Have questions or want to contribute? Reach out at **support@pr-cybr.com**.
+
+<!-- last updated: 2025-10-24 -->
