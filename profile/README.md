@@ -6,10 +6,10 @@ To empower communities with ethical technology, education and preparedness so th
 
 ## 🚧 Current Initiatives 🚧  
 - **Watchdogs** – Building community‑driven monitoring systems that detect and report cyber and physical threats, enabling neighbours to protect one another.  
-- **PR‑CYBR Divisions** – Establishing decentralised network nodes (Divisions) at the municipal level where volunteers can collaborate and share resources for digital resilience.  
-- **PR‑CYBR Agents** – Developing AI‑augmented agents to automate research, development, testing and deployment of solutions to real‑time problems, bringing full digital autonomy to our workflows.  
-- **TOC Ops** – Teaching community members to set up localised Technical Operations Centers for disaster response, search and rescue and incident management.  
-- **SAT DB** – Indexing satellites orbiting Earth and throughout the solar system to create an open‑source, immersive visualisation of near real‑time orbital assets.  
+- **PR‑CYBR-DIV** – Establishing decentralised network nodes (Divisions) at the municipal level where volunteers can collaborate and share resources for digital resilience.  
+- **PR‑CYBR-AGENTS** – Developing AI‑augmented agents to automate research, development, testing and deployment of solutions to real‑time problems, bringing full digital autonomy to our workflows.  
+- **TOC-OPs** – Teaching community members to set up localised Technical Operations Centers for disaster response, search and rescue and incident management.  
+- **SAT-DB** – Indexing satellites orbiting Earth and throughout the solar system to create an open‑source, immersive visualisation of near real‑time orbital assets.  
 
 ## 🛠️ Project Page Status 🛠️  
 Here are some of our active project pages and their deployment status (GitHub Pages):  
