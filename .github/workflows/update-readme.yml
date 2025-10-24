@@ -1,0 +1,31 @@
+name: Update Org README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update last updated timestamp
+        run: |
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          FILE="profile/README.md"
+          # Replace or insert the last updated comment
+          if grep -q "<!-- last updated:" "$FILE"; then
+            sed -i "s/<!-- last updated: .* -->/<!-- last updated: $DATE -->/" "$FILE"
+          else
+            echo "" >> "$FILE"
+            echo "<!-- last updated: $DATE -->" >> "$FILE"
+          fi
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update last updated timestamp"
+          file_pattern: "profile/README.md"
