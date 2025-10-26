@@ -1,76 +1,81 @@
-# 🚀 Welcome to PR‑CYBR! 🚀  
-Protegiendo a los que no ven — safeguarding those who cannot see. PR‑CYBR is a Puerto Rico initiative for digital resilience and next‑generation technology exploration. We are a community dedicated to helping people understand and **see the unseen** through technology and education. Our motto, “helping those who cannot see,” guides us in building tools and programs that illuminate hidden threats and opportunities so communities can thrive.  
+<div align="center">
 
-## 🎯 Our Mission 🎯  
-To empower communities with ethical technology, education and preparedness so they can protect themselves and others. Guided by the Seven Hermetic Principles, we merge cybersecurity, AI/ML, space systems and psionics with humanitarian values to foster awareness, resilience and intergenerational stewardship.  
+# 🚀 Welcome to PR-CYBR! 🚀
 
-## 🚧 Current Initiatives 🚧  
-- **Watchdogs** – Building community‑driven monitoring systems that detect and report cyber and physical threats, enabling neighbours to protect one another.  
-- **PR‑CYBR-DIV** – Establishing decentralised network nodes (Divisions) at the municipal level where volunteers can collaborate and share resources for digital resilience.  
-- **PR‑CYBR-AGENTS** – Developing AI‑augmented agents to automate research, development, testing and deployment of solutions to real‑time problems, bringing full digital autonomy to our workflows.  
-- **TOC-OPs** – Teaching community members to set up localised Technical Operations Centers for disaster response, search and rescue and incident management.  
-- **SAT-DB** – Indexing satellites orbiting Earth and throughout the solar system to create an open‑source, immersive visualisation of near real‑time orbital assets.  
+_Protegiendo a los que no ven — safeguarding those who cannot see._
 
-## 🛠️ Project Page Status 🛠️  
-Here are some of our active project pages and their deployment status (GitHub Pages):  
+</div>
 
-- **[spec‑bootstrap v1.0.0](https://pr-cybr.github.io/spec-bootstrap/)** – [![](https://github.com/PR-CYBR/spec-bootstrap/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/spec-bootstrap/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Official build of the Spec‑Bootstrap template; use this as a starting point for capturing constitutions, specifications, plans and tasks.   
-- **[PR‑CYBR‑FRONTEND‑AGENT](https://pr-cybr.github.io/PR-CYBR-FRONTEND-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) A front‑end agent powering our user interfaces.  
-- **[PR‑CYBR‑DOCUMENTATION‑AGENT](https://pr-cybr.github.io/PR-CYBR-DOCUMENTATION-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Auto‑generate and maintain documentation for our projects.   
-- **[PR‑CYBR‑SECURITY‑AGENT](https://pr-cybr.github.io/PR-CYBR-SECURITY-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) AI‑driven security analysis and incident response.   
-- **[PR‑CYBR‑MGMT‑AGENT](https://pr-cybr.github.io/PR-CYBR-MGMT-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Orchestrates management tasks across our systems.   
-- **[PR‑CYBR‑DATA‑INTEGRATION‑AGENT](https://pr-cybr.github.io/PR-CYBR-DATA-INTEGRATION-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Integrates data from various sources to support analytics and automation.  
-- **[PR‑CYBR‑DATABASE‑AGENT](https://pr-cybr.github.io/PR-CYBR-DATABASE-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Manages database operations and ensures data resilience.   
-- **[PR‑CYBR‑BACKEND‑AGENT](https://pr-cybr.github.io/PR-CYBR-BACKEND-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Handles backend processes and API orchestration.   
-- **[PR‑CYBR‑PERFORMANCE‑AGENT](https://pr-cybr.github.io/PR-CYBR-PERFORMANCE-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Monitors and optimises system performance.  
-- **[PR‑CYBR‑TESTING‑AGENT](https://pr-cybr.github.io/PR-CYBR-TESTING-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Automates testing workflows to ensure reliability.  
-- **[PR‑CYBR‑CI‑CD‑AGENT](https://pr-cybr.github.io/PR-CYBR-CI-CD-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Manages CI/CD pipelines across projects.   
-- **[PR‑CYBR‑INFRASTRUCTURE‑AGENT](https://pr-cybr.github.io/PR-CYBR-INFRASTRUCTURE-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Oversees infrastructure provisioning and maintenance.   
-- **[PR‑CYBR‑USER‑FEEDBACK‑AGENT](https://pr-cybr.github.io/PR-CYBR-USER-FEEDBACK-AGENT/)** – [![](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Gathers and analyses user feedback to improve our tools.   
-- **[vTOC](https://pr-cybr.github.io/vTOC/)** – [![](https://github.com/PR-CYBR/vTOC/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/vTOC/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) The vector Table of Contents and resource index for our ecosystem.   
-- **[vTOC‑AGENT](https://pr-cybr.github.io/vTOC-AGENT/)** – [![](https://github.com/PR-CYBR/vTOC-AGENT/actions/workflows/pages-build-deployment.yml/badge.svg?branch=pages)](https://github.com/PR-CYBR/vTOC-AGENT/actions/workflows/pages-build-deployment.yml?query=branch%3Apages) Agent for interacting with our vector Table of Contents.  
+PR-CYBR is a Puerto Rico initiative for digital resilience and next-generation technology exploration. We are a community dedicated to helping people understand and **see the unseen** through technology and education. Our motto, "helping those who cannot see," guides us in building tools and programs that illuminate hidden threats and opportunities so communities can thrive.
 
-(Browse our [repositories](https://github.com/PR-CYBR?tab=repositories) for more.)  
+---
 
-## ✅ Project Repository Status ✅  
-Here are the current statuses of our main‑branch workflows (updated daily via GitHub Actions):  
+## 🎯 Our Mission
 
-- **[spec‑bootstrap](https://github.com/PR-CYBR/spec-bootstrap/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/spec-bootstrap/actions/workflows/spec-kit-validation.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/spec-bootstrap/actions/workflows/spec-kit-validation.yml?query=branch%3Amain) Shows the status of the Spec‑Kit validation workflow on the main branch.  
-- **[PR‑CYBR‑FRONTEND‑AGENT](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our front‑end agent.  
-- **[PR‑CYBR‑DOCUMENTATION‑AGENT](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our documentation agent.  
-- **[PR‑CYBR‑SECURITY‑AGENT](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our security agent.  
-- **[PR‑CYBR‑MGMT‑AGENT](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our management agent.  
-- **[PR‑CYBR‑DATA‑INTEGRATION‑AGENT](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our data integration agent.  
-- **[PR‑CYBR‑DATABASE‑AGENT](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our database agent.  
-- **[PR‑CYBR‑BACKEND‑AGENT](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our backend agent.  
-- **[PR‑CYBR‑PERFORMANCE‑AGENT](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our performance agent.  
+To empower communities with ethical technology, education and preparedness so they can protect themselves and others. Guided by the Seven Hermetic Principles, we merge cybersecurity, AI/ML, space systems and psionics with humanitarian values to foster awareness, resilience and intergenerational stewardship.
 
-### 🔄 Live Agent Status 🔄  
+---
 
-Here are real-time workflow status badges for our core agents (default branch):  
+## 🧭 Current Initiatives
 
-- **PR‑CYBR‑FRONTEND‑AGENT** ![Frontend Agent CI](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑DOCUMENTATION‑AGENT** ![Documentation Agent CI](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑SECURITY‑AGENT** ![Security Agent CI](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑MGMT‑AGENT** ![Management Agent CI](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑DATA‑INTEGRATION‑AGENT** ![Data Integration Agent CI](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑DATABASE‑AGENT** ![Database Agent CI](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑BACKEND‑AGENT** ![Backend Agent CI](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑PERFORMANCE‑AGENT** ![Performance Agent CI](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑TESTING‑AGENT** ![Testing Agent CI](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/main.yml/badge.svg)  
-- **PR‑CYBR‑CI‑CD‑AGENT** ![CI/CD Agent CI](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/main.yml/badge.svg)
-- **[PR‑CYBR‑TESTING‑AGENT](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our testing agent.  
-- **[PR‑CYBR‑CI‑CD‑AGENT](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our CI/CD agent.  
-- **[PR‑CYBR‑INFRASTRUCTURE‑AGENT](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our infrastructure agent.  
-- **[PR‑CYBR‑USER‑FEEDBACK‑AGENT](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our user feedback agent. 
-- **[vTOC](https://github.com/PR-CYBR/vTOC/actions?query=branch%3Amain)** – No maintenance workflow; repository houses our vector Table of Contents.  
-- **[vTOC‑AGENT](https://github.com/PR-CYBR/vTOC-AGENT/actions?query=branch%3Amain)** – No maintenance workflow; agent interacts with the vTOC.  
+- **Watchdogs** – Building community-driven monitoring systems that detect and report cyber and physical threats, enabling neighbours to protect one another.
+- **PR-CYBR-DIV** – Establishing decentralised network nodes (Divisions) at the municipal level where volunteers can collaborate and share resources for digital resilience.
+- **PR-CYBR-AGENTS** – Developing AI-augmented agents to automate research, development, testing and deployment of solutions to real-time problems, bringing full digital autonomy to our workflows.
+- **TOC-OPs** – Teaching community members to set up localised Technical Operations Centers for disaster response, search and rescue and incident management.
+- **SAT-DB** – Indexing satellites orbiting Earth and throughout the solar system to create an open-source, immersive visualisation of near real-time orbital assets.
 
-## 🤝 Get Involved 🤝  
-- **Contribute** – Check our [issues](https://github.com/PR-CYBR/.github/issues) and [pull requests](https://github.com/PR-CYBR/.github/pulls) to help improve our tools and frameworks.  
-- **Join the Community** – Follow us on [GitHub](https://github.com/PR-CYBR) and join our [discussions](https://github.com/PR-CYBR/.github/discussions) to stay informed.  
-- **Learn** – Explore our resources and look out for future training programmes delivered through our applications.  
-- **Collaborate** – [Contact us](mailto:support@pr-cybr.com) or join our [Discord server](https://discord.gg/a6XmRJNAb2) if you want to partner on research, education or community projects.  
+---
 
-## 📬 Contact 📬  
-Have questions or want to contribute? Reach out at [support@pr-cybr.com](mailto:support@pr-cybr.com).  
+## 🧰 Project Repository Status
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| [spec-bootstrap](https://github.com/PR-CYBR/spec-bootstrap) | Official build of the Spec-Bootstrap template | ![Spec-Kit Validation](https://github.com/PR-CYBR/spec-bootstrap/actions/workflows/spec-kit-validation.yml/badge.svg?branch=main) |
+| [PR-CYBR-FRONTEND-AGENT](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT) | Front-end agent powering user interfaces | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-DOCUMENTATION-AGENT](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT) | Auto-generate and maintain project documentation | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-SECURITY-AGENT](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT) | AI-driven security analysis and incident response | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-MGMT-AGENT](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT) | Orchestrates management tasks across systems | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-DATA-INTEGRATION-AGENT](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT) | Integrates data from various sources | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-DATABASE-AGENT](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT) | Manages database operations and data resilience | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-BACKEND-AGENT](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT) | Handles backend processes and API orchestration | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-PERFORMANCE-AGENT](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT) | Monitors and optimises system performance | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-TESTING-AGENT](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT) | Automates testing workflows to ensure reliability | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-CI-CD-AGENT](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT) | Manages CI/CD pipelines across projects | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-INFRASTRUCTURE-AGENT](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT) | Oversees infrastructure provisioning and maintenance | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [PR-CYBR-USER-FEEDBACK-AGENT](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT) | Gathers and analyses user feedback | ![Maintenance](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main) |
+| [vTOC](https://github.com/PR-CYBR/vTOC) | Vector Table of Contents and resource index | _No maintenance workflow_ |
+| [vTOC-AGENT](https://github.com/PR-CYBR/vTOC-AGENT) | Agent for interacting with vTOC | _No maintenance workflow_ |
+
+_Browse our [repositories](https://github.com/PR-CYBR?tab=repositories) for more._
+
+---
+
+## ⚙️ Live Agent Status
+
+- [**PR-CYBR-FRONTEND-AGENT**](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT) ![Frontend Agent CI](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-DOCUMENTATION-AGENT**](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT) ![Documentation Agent CI](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-SECURITY-AGENT**](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT) ![Security Agent CI](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-MGMT-AGENT**](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT) ![Management Agent CI](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-DATA-INTEGRATION-AGENT**](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT) ![Data Integration Agent CI](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-DATABASE-AGENT**](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT) ![Database Agent CI](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-BACKEND-AGENT**](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT) ![Backend Agent CI](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-PERFORMANCE-AGENT**](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT) ![Performance Agent CI](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-TESTING-AGENT**](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT) ![Testing Agent CI](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-CI-CD-AGENT**](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT) ![CI/CD Agent CI](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-INFRASTRUCTURE-AGENT**](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT) ![Infrastructure Agent CI](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/main.yml/badge.svg)
+- [**PR-CYBR-USER-FEEDBACK-AGENT**](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT) ![User Feedback Agent CI](https://github.com/PR-CYBR/PR-CYBR-USER-FEEDBACK-AGENT/actions/workflows/main.yml/badge.svg)
+
+---
+
+## 🤝 Get Involved
+
+- **Contribute** – Check our [issues](https://github.com/PR-CYBR/.github/issues) and [pull requests](https://github.com/PR-CYBR/.github/pulls) to help improve our tools and frameworks.
+- **Join the Community** – Follow us on [GitHub](https://github.com/PR-CYBR) and join our [discussions](https://github.com/PR-CYBR/.github/discussions) to stay informed.
+- **Learn** – Explore our resources and look out for future training programmes delivered through our applications.
+- **Collaborate** – [Contact us](mailto:support@pr-cybr.com) or join our [Discord server](https://discord.gg/a6XmRJNAb2) if you want to partner on research, education or community projects.
+
+---
+
+## 📬 Contact
+
+Have questions or want to contribute? Reach out at [support@pr-cybr.com](mailto:support@pr-cybr.com).
