@@ -44,6 +44,21 @@ Here are the current statuses of our main‑branch workflows (updated daily via 
 - **[PR‑CYBR‑DATABASE‑AGENT](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our database agent.  
 - **[PR‑CYBR‑BACKEND‑AGENT](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our backend agent.  
 - **[PR‑CYBR‑PERFORMANCE‑AGENT](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our performance agent.  
+
+### 🔄 Live Agent Status 🔄  
+
+Here are real-time workflow status badges for our core agents (default branch):  
+
+- **PR‑CYBR‑FRONTEND‑AGENT** ![Frontend Agent CI](https://github.com/PR-CYBR/PR-CYBR-FRONTEND-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑DOCUMENTATION‑AGENT** ![Documentation Agent CI](https://github.com/PR-CYBR/PR-CYBR-DOCUMENTATION-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑SECURITY‑AGENT** ![Security Agent CI](https://github.com/PR-CYBR/PR-CYBR-SECURITY-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑MGMT‑AGENT** ![Management Agent CI](https://github.com/PR-CYBR/PR-CYBR-MGMT-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑DATA‑INTEGRATION‑AGENT** ![Data Integration Agent CI](https://github.com/PR-CYBR/PR-CYBR-DATA-INTEGRATION-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑DATABASE‑AGENT** ![Database Agent CI](https://github.com/PR-CYBR/PR-CYBR-DATABASE-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑BACKEND‑AGENT** ![Backend Agent CI](https://github.com/PR-CYBR/PR-CYBR-BACKEND-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑PERFORMANCE‑AGENT** ![Performance Agent CI](https://github.com/PR-CYBR/PR-CYBR-PERFORMANCE-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑TESTING‑AGENT** ![Testing Agent CI](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/main.yml/badge.svg)  
+- **PR‑CYBR‑CI‑CD‑AGENT** ![CI/CD Agent CI](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/main.yml/badge.svg)
 - **[PR‑CYBR‑TESTING‑AGENT](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-TESTING-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our testing agent.  
 - **[PR‑CYBR‑CI‑CD‑AGENT](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-CI-CD-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our CI/CD agent.  
 - **[PR‑CYBR‑INFRASTRUCTURE‑AGENT](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions?query=branch%3Amain)** – [![](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/maintenance.yml/badge.svg?branch=main)](https://github.com/PR-CYBR/PR-CYBR-INFRASTRUCTURE-AGENT/actions/workflows/maintenance.yml?query=branch%3Amain) Monitors scheduled maintenance tasks for our infrastructure agent.  
