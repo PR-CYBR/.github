@@ -80,4 +80,4 @@ _Browse our [repositories](https://github.com/PR-CYBR?tab=repositories) for more
 
 Have questions or want to contribute? Reach out at [support@pr-cybr.com](mailto:support@pr-cybr.com).
 
-<!-- last updated: 2026-07-17 02:04:51 UTC -->
+<!-- last updated: 2026-07-18 01:54:08 UTC -->
